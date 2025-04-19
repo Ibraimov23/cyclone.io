@@ -228,7 +228,7 @@ export default function Header() {
                     transition={{ delay: 0.5 }}
                     className="mt-6 text-center text-sm text-gray-500"
                   >
-                    <a href="/cyclone.apk" download className="text-cyclone underline hover:text-cyclone-dark">
+                    <a href="https://github.com/Ibraimov23/cyclone.io/raw/master/public/downloads/cyclone.apk" download className="text-cyclone underline hover:text-cyclone-dark">
                       Скачать приложение
                     </a>
                   </motion.div>

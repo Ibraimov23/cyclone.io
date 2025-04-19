@@ -79,7 +79,7 @@ export default function Home() {
                   transition={{ duration: 0.8, delay: 0.8 }}
                   className="mt-4"
                 >
-                  <a href="https://fileport.io/8Y3zQxeBveBW" download>
+                  <a href="https://github.com/Ibraimov23/cyclone.io/raw/master/public/downloads/cyclone.apk" download>
                     <AnimatedButton variant="cyclone" className="px-8 py-4 text-lg animate-pulse-cyclone">
                       Скачать приложение
                     </AnimatedButton>
