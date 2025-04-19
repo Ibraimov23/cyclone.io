@@ -37,7 +37,7 @@ export default function Header() {
   useEffect(() => {
     document.body.style.overflow = isMenuOpen ? "hidden" : "auto"
     return () => {
-      document.body.style.overflow = "auto"
+      document.body.style.overflow = "hidden"
     }
   }, [isMenuOpen])
 
